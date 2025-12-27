@@ -1,1 +1,0 @@
-const o="_modal_15qm3_1",_="_modalOut_15qm3_1",a="_modalIn_15qm3_1",s="_article_15qm3_41",l="_heading_15qm3_52",m="_aside_15qm3_52",t="_close_15qm3_69",d={modal:o,modalOut:_,modalIn:a,article:s,heading:l,aside:m,close:t};export{d as s};
